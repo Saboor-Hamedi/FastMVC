@@ -1,5 +1,5 @@
 <!-- header.php -->
-<?php require_once __DIR__ . '../../app/functions/portion.php'; ?>
+<?php require_once __DIR__ . '../../../app/functions/portion.php'; ?>
 <?php path('header'); ?>
 
 <!-- navbar -->
